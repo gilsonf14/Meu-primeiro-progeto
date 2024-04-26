@@ -3,4 +3,4 @@
 
 primeiro progeto criado assistindo uma video aula
 
-Essa linha eu adicionei mais uma auteração remota 
+Essa linha eu adicionei remotamente
